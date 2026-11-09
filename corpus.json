@@ -1,0 +1,23 @@
+{
+  "corpus": "us/federal/irs-guidance",
+  "path": "united-states/federal/irs-guidance",
+  "name": "United States: IRS guidance (Internal Revenue Bulletin)",
+  "label": "United States (IRS guidance)",
+  "language": "en",
+  "kind": "guidance",
+  "history": "as-enacted",
+  "history_from": "1995-01-22",
+  "record_to": "2026-11-09",
+  "checked_on": "2026-11-09",
+  "record_note": "Each item as first published in the Internal Revenue Bulletin, bulletins 1996-01 to 2026-46: 1,306 × Treasury decision (final or temporary regulations), 2,074 announcements, 2,467 notices, 1,114 × notice of proposed rulemaking (proposed regulations), 1,697 revenue procedures, 1,453 revenue rulings. Later items that modify or supersede an item are their own commits (Effect: trailers); the earlier file is not rewritten. Dated by the item's own effective-date sentence where it has one, else by its bulletin.",
+  "in_force_trailer": "In-force",
+  "dates": {
+    "commit": "in-force (effective-date sentence) or bulletin date",
+    "time": "12:00 UTC-5"
+  },
+  "source": {
+    "publisher": "Internal Revenue Service",
+    "url": "https://www.irs.gov/irb",
+    "licence": "public domain (17 U.S.C. §105)"
+  }
+}
